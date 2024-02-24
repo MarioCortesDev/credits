@@ -39,7 +39,11 @@ Para el sigiente endpoint
 
 Retornará la información de:
  Total de asignaciones realizadas (e.g. 100)
+ 
  Total de asignaciones exitosas (e.g. 40) 
+ 
  Total de asignaciones no exitosas (e.g. 60)
+ 
  Promedio de inversión exitosa (e.g. 3545.6)
+ 
  Promedio de inversión no exitosa (e.g. 350.3)
