@@ -1,6 +1,7 @@
 # Requerimientos
 
 1.- Tener el servicio de docker escuchando
+
 2.- Postman
 
 # Pasos para probar
